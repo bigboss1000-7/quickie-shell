@@ -10,7 +10,7 @@ PanelWindow {
 
     Image {
         anchors.fill: parent
-        source: "/home/bigbossdev/Pictures/Wallpapers/748657.jpg"
+        source: "/home/bigbossdev/Pictures/Wallpapers/unit01.png"
         fillMode: Image.PreserveAspectCrop
     }
 }

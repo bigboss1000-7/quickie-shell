@@ -13,8 +13,8 @@ ShellRoot{
         color: "transparent"
         anchors.right: true
         anchors.bottom: true
-        margins.right: 50
-        margins.bottom: 50
+        margins.right: 10
+        margins.bottom: 25
         Rectangle{
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.verticalCenter: parent.verticalCenter
